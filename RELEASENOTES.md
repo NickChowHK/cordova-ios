@@ -166,7 +166,7 @@ Cordova is a static library that enables developers to include the Cordova API i
 * [CB-8980](https://issues.apache.org/jira/browse/CB-8980) Ensure copied resource-files are cleaned
 * [CB-12847](https://issues.apache.org/jira/browse/CB-12847) added `bugs` entry to `package.json`.
 * Updated cordova-common to 2.1.0 and other bundled node_modules
-* Update bundled ios-sim to 6.0.0
+* Update bundled ios-sim to 5.1.2
 
 ### 4.4.0 (Apr 22, 2017)
 * [CB-12009](https://issues.apache.org/jira/browse/CB-12009) - <resource-file> target attribute ignored on iOS when installing a Cordova plugin
@@ -422,7 +422,7 @@ Cordova is a static library that enables developers to include the Cordova API i
 * [CB-8906](https://issues.apache.org/jira/browse/CB-8906) - cordova run ios --target doesn't work
 * Incremented ios-sim version to 4.0.0
 * Incremented ios-deploy version to 1.7.0
-* Incremented xcodebuild version to 6.0.0
+* Incremented xcodebuild version to 5.1.2
 * [CB-8895](https://issues.apache.org/jira/browse/CB-8895) - Change CDVStartPageTests::testParametersInStartPage into an async test
 * [CB-8047](https://issues.apache.org/jira/browse/CB-8047) - [WKWebView][iOS8] wkwebview / local webserver plugin orientation issue
 * [CB-8838](https://issues.apache.org/jira/browse/CB-8838) - Moved commandQueue push into non-WK_WEBVIEW_BINDING branch. (closes #136)
